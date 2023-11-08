@@ -3,7 +3,7 @@ import { Alert, ScrollView, StyleSheet, Text, TouchableOpacity, View } from "rea
 import MonthPicker from "../components/MonthPicker";
 import DatePicker from "../components/DatePicker";
 import YearPicker from "../components/YearPicker";
-import { MONTHS, YEARS } from "../Constant/Constant";
+import { MONTHS, YEARS } from "../constant/Constant";
 
 
 const PickerApp: React.FC = () => {

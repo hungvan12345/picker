@@ -18,7 +18,7 @@ import {
 } from 'react-native';
 import MonthPicker from './src/components/MonthPicker';
 import DatePicker from './src/components/DatePicker';
-import PickerApp from './src/PickerApp';
+import PickerApp from './src/picker';
 
 function App(): JSX.Element {
 
