@@ -15,7 +15,7 @@ const PickerApp: React.FC = () => {
     const handleCurrentMonth = (id: number) => {
         setCurrentMonth(id);
         setMonth(MONTHS[id]);
-        conso
+       
     }
     const handleCurrentYear = (id: number) => {
         setCurrentYear(YEARS[id]);
